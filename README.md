@@ -181,7 +181,7 @@ The trained model predicts journey duration based on user-provided distance and 
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/Himanshuchavda786/indian-railway-analytics-ml-dashboard.git
+git clone https://github.com/yourusername/train-journey-analytics-duration-prediction.git
 ```
 
 ### 2️⃣ Navigate to Project Directory
