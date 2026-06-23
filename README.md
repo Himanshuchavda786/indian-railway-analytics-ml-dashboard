@@ -1,10 +1,23 @@
-# 🚆 Train Journey Analytics & Duration Prediction
+# 🚆 Indian Railway Analytics & Journey Duration Prediction Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red.svg)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Predictive%20Analytics-green.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+## 🌐 Live Application
+
+[![Open Dashboard](https://img.shields.io/badge/Launch-Live%20Dashboard-2563EB?style=for-the-badge)](https://indian-railway-analytics-ml-dashboard.streamlit.app/)
+
+### 🎯 Key Highlights
+
+- 🚆 Railway Journey Analytics
+- 📊 Interactive Data Visualization
+- 🤖 Machine Learning Duration Prediction
+- 📈 Business Intelligence Dashboard
+- 🎨 Premium Streamlit UI
+- ⚡ Real-Time User Predictions
 
 ## 📖 Project Overview
 
