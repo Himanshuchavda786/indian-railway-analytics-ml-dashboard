@@ -3052,19 +3052,6 @@ def final_page(df):
         x="Distance",
         y="Duration",
         title="🚆 Distance vs Journey Duration Analysis",
-        opacity=0.75,
-        trendline="ols",
-        labels={
-            "Distance": "Distance (KM)",
-            "Duration": "Journey Duration (Hours)"
-        },
-    )
-
-    fig4 = px.scatter(
-        distance_duration_df,
-        x="Distance",
-        y="Duration",
-        title="🚆 Distance vs Journey Duration Analysis",
         color="Duration",
         color_continuous_scale="Turbo",
         size="Duration",
